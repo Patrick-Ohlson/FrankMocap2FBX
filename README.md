@@ -19,11 +19,16 @@ Use my [fbx_output_FRANKMOCAP.py](fbx_output_FRANKMOCAP.py) modified for conda b
 
 Needs SMPL models from: https://download.is.tue.mpg.de/download.php?domain=smpl&sfile=SMPL_unity_v.1.0.0.zip
 
-This is also a good Blender plugin, although bone structure did not suit me https://github.com/carlosedubarreto/b3d_mocap_import
+This is also a good Blender plugin, although bone structure did not suit me:
+
+https://github.com/carlosedubarreto/b3d_mocap_import
+
 
 This one needs adjustments, but very good for removing the Blender requirement
+
 https://github.com/mrhaiyiwang/Smplx2FBX
 
 # SMPL links
 https://smplify.is.tue.mpg.de/index.html
+
 https://smpl-x.is.tue.mpg.de/index.html
