@@ -15,7 +15,7 @@ Otherwise, use anaconda and setup FrankMocap by following the instructions in ht
 
 Install Blender ( https://anaconda.org/kitsune.one/python-blender )
 
-Use my [fbx_output_FRANKMOCAP.py] modified for conda blender 2.7x , https://github.com/facebookresearch/frankmocap/files/5750266/fbx_output_FRANKMOCAP.zip (For newer Blender)
+Use my [fbx_output_FRANKMOCAP.py](fbx_output_FRANKMOCAP.py) modified for conda blender 2.7x , https://github.com/facebookresearch/frankmocap/files/5750266/fbx_output_FRANKMOCAP.zip (For newer Blender)
 Needs SMPL models from: https://download.is.tue.mpg.de/download.php?domain=smpl&sfile=SMPL_unity_v.1.0.0.zip
 
 This is also a good Blender plugin, although bone structure did not suit me https://github.com/carlosedubarreto/b3d_mocap_import
