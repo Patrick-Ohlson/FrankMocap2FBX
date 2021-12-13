@@ -32,3 +32,10 @@ https://github.com/mrhaiyiwang/Smplx2FBX
 https://smplify.is.tue.mpg.de/index.html
 
 https://smpl-x.is.tue.mpg.de/index.html
+
+# UBISOFT
+https://github.com/ubisoft/ubisoft-laforge-animation-dataset
+https://github.com/xjwxjw/Pytorch-Robust-Motion-In-betweening
+
+# Sebastian Starke
+https://github.com/sebastianstarke/AI4Animation/
