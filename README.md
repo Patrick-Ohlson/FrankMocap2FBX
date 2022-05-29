@@ -31,6 +31,8 @@ https://github.com/mrhaiyiwang/Smplx2FBX
 
 # 2022 May
 
+Human Dynamics from Monocular Video with Dynamic Camera Movements
+
 https://github.com/yul85/movingcam
 
 Unity
