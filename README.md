@@ -36,18 +36,23 @@ https://github.com/yul85/movingcam
 Unity
 
 https://github.com/sebastianstarke/BioIK
+
 https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md
+
 https://blog.unity.com/technology/robotics-simulation-in-unity-is-as-easy-as-1-2-3
 
 Great resources 
 
 https://github.com/chingswy/HumanPoseMemo
+
 https://paperswithcode.com/task/motion-synthesis/latest
 
 Clothing
 
 https://github.com/aymenmir1/pix2surf
+
 https://github.com/enriccorona/SMPLicit/tree/main/fit_SMPLicit
+
 https://github.com/enriccorona/SMPLicit
 
 # SMPL links
