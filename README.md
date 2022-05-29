@@ -1,5 +1,6 @@
 # FrankMocap2FBX
-A brain dump for my FrankMocap explorations
+A brain dump for my FrankMocap explorations 
+(Will add interesting links below)
 
 I stumbled upon https://github.com/facebookresearch/frankmocap, these are my links and notes, use and abuse
 
@@ -27,6 +28,27 @@ https://github.com/carlosedubarreto/b3d_mocap_import
 This one needs adjustments, but very good for removing the Blender requirement
 
 https://github.com/mrhaiyiwang/Smplx2FBX
+
+# 2022 May
+
+https://github.com/yul85/movingcam
+
+Unity
+
+https://github.com/sebastianstarke/BioIK
+https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md
+https://blog.unity.com/technology/robotics-simulation-in-unity-is-as-easy-as-1-2-3
+
+Great resources 
+
+https://github.com/chingswy/HumanPoseMemo
+https://paperswithcode.com/task/motion-synthesis/latest
+
+Clothing
+
+https://github.com/aymenmir1/pix2surf
+https://github.com/enriccorona/SMPLicit/tree/main/fit_SMPLicit
+https://github.com/enriccorona/SMPLicit
 
 # SMPL links
 https://smplify.is.tue.mpg.de/index.html
