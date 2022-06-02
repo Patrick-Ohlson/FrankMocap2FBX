@@ -36,6 +36,9 @@ Human Dynamics from Monocular Video with Dynamic Camera Movements
 https://github.com/yul85/movingcam
 
 Unity
+https://medium.com/towards-data-science/gettingstartedwithmarathonenvs-v0-5-0a-c1054a0b540c
+
+https://github.com/Unity-Technologies/marathon-envs/tree/develop
 
 https://github.com/sebastianstarke/BioIK
 
